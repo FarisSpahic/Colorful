@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MaterialApp
 Scaffold
 
@@ -22,3 +23,29 @@ CircleAvatar
 Image
 
 TextField
+=======
+MaterialApp
+Scaffold
+
+Text
+RichText
+
+Container
+Center
+Padding
+SizedBox
+Expandable
+
+Row
+Column
+Wrap
+SingleChildScrollView
+
+
+Divider
+
+CircleAvatar
+Image
+
+TextField
+>>>>>>> 534433283455d8d137b9c3d145a3ffed0bfec97b
